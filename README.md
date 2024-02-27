@@ -1,4 +1,4 @@
-# General DNS Resolver and Client
+# Universal DNS Resolver and Client
 
 ### Description
 
